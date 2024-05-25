@@ -52,7 +52,7 @@ const quiz = [
             "Arabe et Amazighe",
             "Français et Anglais"
         ],
-        answer: 0
+        answer: 2
     },
     {
         article: 6,
@@ -96,7 +96,7 @@ const quiz = [
             "Par une décision de justice",
             "Par un référendum"
         ],
-        answer: 1
+        answer: 2
     },
     {
         article: 10,
